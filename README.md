@@ -1,4 +1,4 @@
-### Hi there 👋
+# About Me
 
 - 🔭 I’m currently working on a bunch of projects.
 - 🌱 I’m currently learning about github and SnakeMake.
