@@ -5,15 +5,10 @@
  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> --->
 
-- 🔭 I’m currently working on a bunch of projects.
-- 🌱 I’m currently learning about github and SnakeMake.
-- 💬 Ask me about my dogs!
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Food.
-## Work
-
-## Life
-
+## Current Projects:
+  * Structural variant analysis
+  * Drought-induced histone tri-methylation
+  * Large genome assembly and gene annotation.
 
 
 
