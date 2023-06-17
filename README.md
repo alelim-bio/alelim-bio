@@ -1,12 +1,35 @@
-# About Me
-<!--- <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png"> 
-<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> 
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture> --->
+# Bioinformatics Researcher | Data Enthusiast | Genomics Explorer
 
-## Current Projects
-  * Structural variant analysis
-  * Drought-induced histone tri-methylation
-  * Large genome assembly and gene annotation.
+Passionate about unraveling life's mysteries through data-driven insights.
 
+## About Me
+I am an experienced bioinformatics researcher with a strong track record in the higher education industry. My expertise lies in leveraging data analysis and computational tools to advance the field of genomics. With a focus on bridging biology and data science, I strive to translate complex biological questions into actionable insights.
+
+## Education
+- Master of Science in Biochemistry, Oklahoma State University
+
+## Skills
+- Bioinformatics
+- Genomics data analysis
+- HPC cluster utilization
+- Genome assembly
+- Differential genomics
+- Data processing and analysis
+- Programming languages: Python, R
+
+## Experience
+- Led a groundbreaking genome assembly project for a high-performing wheat variety
+- Utilized HPC cluster environments for terabyte-level data processing
+- Conducted differential genomics analysis to uncover novel insights
+
+## Projects
+- Project 1: [Title of Project](link-to-project)
+- Project 2: [Title of Project](link-to-project)
+
+## Publications
+- Publication 1: [Title of Publication](link-to-publication)
+- Publication 2: [Title of Publication](link-to-publication)
+
+## Contact Me
+- LinkedIn: [Your LinkedIn Profile](link-to-LinkedIn)
+- Email: [Your Email Address](mailto:your-email@example.com)
