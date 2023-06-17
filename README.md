@@ -10,7 +10,3 @@
   * Drought-induced histone tri-methylation
   * Large genome assembly and gene annotation.
 
-
-
-**alelim-bio/alelim-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
