@@ -27,9 +27,9 @@ I am an experienced bioinformatics researcher with a strong track record in the 
 - Project 3: [Genome Assembly and Annotation](link-to-project)
 
 ## Publications
-- Publication 1: [Title of Publication](link-to-publication)
-- Publication 2: [Title of Publication](link-to-publication)
+- Publication 1: [Nanopore ultra-long read sequencing technology for antimicrobial resistance detection in Mannheimia haemolytica](https://doi.org/10.1016/j.mimet.2019.03.001)
+- Publication 2: [Pan-Genomic and Polymorphic Driven Prediction of Antibiotic Resistance in Elizabethkingia](https://doi.org/10.3389/fmicb.2019.01446)
 
 ## Contact Me
-- LinkedIn: [My LinkedIn Profile](link-to-LinkedIn)
-- Email: [al.alexanderlim@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/lim-alexander/)
+- Email: [al.alexanderlim@gmail.com](mailto:al.alexanderlim@gmail.com)
